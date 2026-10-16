@@ -26,3 +26,23 @@ C'est le jeu le plus vendu de tout les temps, on estime ses ventes à 425 millio
 Beaucoup de joueurs ont vu les différentes mécaniques de constructions comme un challenge et ont construits des choses que personne ne pensait possible au début.
 On va de magnifiques constructions uniques, à des reconstructions de lieux réels, jusqu'à des choses bien plus complexes comme des fermes automatiques qui récoltent des ressources sans l'intervention du joueur après construction. 
 Mais il y a des joueurs qui sont aller encore bien plus loin, 
+
+## Impacte culturel
+
+### Spin-offs
+
+Minecraft a eu plusieurs dérivés, que ce soit d'autres jeux comme minecraft dungeon, ou encore d'autres plus lucratives comme minecraft education edition sorti en 2016 déstiné aux écoles de certains pays qui peuvent grâce à ça apprendre tout en s'amusant.
+
+### Collaboration
+
+On peut retrouver minecraft ailleurs comme dans des sets de lego ou encore steve qui devient un personnage jouable dans super smash bros ultimate avec le dernier DLC.
+
+Le jeu est tellement populaire que s'en est devenu une véritable référence de la pop culture, on retrouve des éléments basés de minecraft dans plusieurs autres oeuvres comme des jeux, des romans, des séries et films. 
+
+- Terraria
+- Saint Row IV
+- Borderlands 2
+- Les Simpson
+
+
+
