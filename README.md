@@ -2,7 +2,7 @@
 
 ## Histoire de Minecraft 
 
-Minecraft est un jeu bac à sable développé par Markus Persson plus connu sous le pseudonyme "Notch", avec Carl Manneh et Jacob Porsér ils ont fondés le studio Mojang le 20 mai 2009.
+Minecraft est un jeu bac à sable développé par Markus Persson plus connu sous le pseudonyme "Notch". Avec Carl Manneh et Jacob Porsér ils ont fondés le studio Mojang le 20 mai 2009 qui ont continué à développer le jeu Minecraft.
 
 à l'origine Minecraft devait être un jeu pour navigateur mais a été plus tard reporté sur différentes plateformes comme PC et consoles 
 
@@ -24,14 +24,28 @@ C'est le jeu le plus vendu de tout les temps, on estime ses ventes à 425 millio
 ### Créations des joueurs
 
 Beaucoup de joueurs ont vu les différentes mécaniques de constructions comme un challenge et ont construits des choses que personne ne pensait possible au début.
-On va de magnifiques constructions uniques, à des reconstructions de lieux réels, jusqu'à des choses bien plus complexes comme des fermes automatiques qui récoltent des ressources sans l'intervention du joueur après construction. 
-Mais il y a des joueurs qui sont aller encore bien plus loin, 
+On va de magnifiques constructions uniques, à des reconstructions de lieux réels, jusqu'à des choses bien plus complexes comme des fermes automatiques qui récoltent des ressources sans l'intervention du joueur après construction. Mais il y a des joueurs qui sont aller encore bien plus loin.
+
+Parmis les créations les plus inédites et impressionnantes on peut retrouver :
+- un ordinateur fonctionnel
+- 
+https://www.voxgaming.fr/blog/actu/top-5-des-constructions-les-plus-incroyables-de-minecraft-93.php
+
+### speedrun
+
+### tournois
 
 ## Impacte culturel
 
 ### Spin-offs
 
-Minecraft a eu plusieurs dérivés, que ce soit d'autres jeux comme minecraft dungeon, ou encore d'autres plus lucratives comme minecraft education edition sorti en 2016 déstiné aux écoles de certains pays qui peuvent grâce à ça apprendre tout en s'amusant.
+Minecraft a eu plusieurs dérivés comme : 
+- Minecraft dungeon, un jeu plus type rpg (rappelant fortement Diablo) où l'on incarne un personnage qui va de donjon en donjon afin d'obtenir de l'équipement pour battre le boss final se nommant "l'Arch Villageois".
+- Minecraft education edition (Minecraft education depuis 2024), sorti en 2016 déstiné aux écoles de certains pays qui peuvent grâce permettant apprendre tout en s'amusant.
+- Minecraft Story mode, un jeu narratif comme détroit become humain, où l'on incarne un personnage nommée Jessie qui prend des décisions qui impacterons la suite de l'histoire du jeu.
+- Le film minecraft sorti le 2 avril 2025 qui a été mal reçu par la critique.
+https://www.allocine.fr/film/fichefilm-227463/critiques/spectateurs/star-5/
+
 
 ### Collaboration
 
@@ -43,6 +57,5 @@ Le jeu est tellement populaire que s'en est devenu une véritable référence de
 - Saint Row IV
 - Borderlands 2
 - Les Simpson
-
 
 
