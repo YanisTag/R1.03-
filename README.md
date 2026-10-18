@@ -3,8 +3,7 @@
 ## Histoire de Minecraft 
 
 Minecraft est un jeu bac à sable développé par Markus Persson plus connu sous le pseudonyme "Notch". Avec Carl Manneh et Jacob Porsér ils ont fondés le studio Mojang le 20 mai 2009 qui ont continué à développer le jeu Minecraft.
-
-à l'origine Minecraft devait être un jeu pour navigateur mais a été plus tard reporté sur différentes plateformes comme PC et consoles 
+À l'origine Minecraft devait être un jeu pour navigateur mais il a été plus tard reporté sur les différentes plateformes que ce soit PC ou consoles 
 
 - Différentes dates clés :
   - 10 mai 2009 : Le développement de ce jeu a commencé en 2009 et qui avait comme nom initial "cave game"
@@ -28,7 +27,10 @@ On va de magnifiques constructions uniques, à des reconstructions de lieux rée
 
 Parmis les créations les plus inédites et impressionnantes on peut retrouver :
 - un ordinateur fonctionnel
-- 
+- des fermes automatiques qui permettent de produire des ressources
+- la reconstruction du monde à l'échelle 1x1
+- Et bien d'autre construction aussi impressionnante
+- les serveurs
 https://www.voxgaming.fr/blog/actu/top-5-des-constructions-les-plus-incroyables-de-minecraft-93.php
 
 ### speedrun
