@@ -28,19 +28,16 @@ On va de magnifiques constructions uniques, à des reconstructions de lieux rée
 Parmis les créations les plus inédites et impressionnantes on peut retrouver :
 - un ordinateur fonctionnel
 - des fermes automatiques qui permettent de produire des ressources
-- la reconstruction du monde à l'échelle 1x1
-  [Earth]((https://earthmc.net/)).
-- Et bien d'autre construction aussi impressionnante [Builds](https://www.voxgaming.fr/blog/actu/top-5-des-constructions-les-plus-incroyables-de-minecraft-93.php).
+- Et bien d'autre [construction](https://www.voxgaming.fr/blog/actu/top-5-des-constructions-les-plus-incroyables-de-minecraft-93.php) aussi impressionnante.
 
 ### Speedrun
 
 Le speedrun est le fait de terminer un jeu le plus rapidement possible.
-Comme tous les jeux, Minecraft possède une communauté de joueur pratiquant le speedrun. Le jeu possède tout une panoplie de catégorie pour le speedrun, allant des plus fastudieuses comme le
-[Any% random seed]((https://www.speedrun.com/mc?h=Any-random-seed-external-1-9&x=wkpn0vdr-2lgzk1o8.5lekrv5l-68k15rkl.1dk20rpl-wlexoyr8.81pjwxn1)) où on doit battre l'ender sur un monde aléatoire. Ou bien des catégories plus faciles comme le [Destroy a tree](https://www.speedrun.com/mcc?h=Destroy_A_Tree&x=8240zynd) où il suffit de détruire un arbre.
+Comme tous les jeux, Minecraft possède une communauté de joueur pratiquant le speedrun. Le jeu possède tout une panoplie de catégorie pour le speedrun, allant des plus fastudieuses comme le [Any% random seed](https://www.speedrun.com/mc?h=Any-random-seed-external-1-9&x=wkpn0vdr-2lgzk1o8.5lekrv5l-68k15rkl.1dk20rpl-wlexoyr8.81pjwxn1) où on doit battre l'ender sur un monde aléatoire. Ou bien des catégories plus faciles comme le [Destroy a tree](https://www.speedrun.com/mcc?h=Destroy_A_Tree&x=8240zynd) où il suffit de détruire un arbre.
 
 ### Server
 
-
+la reconstruction du monde à l'échelle 1x1 [Earth](https://earthmc.net/).
 
 ## Impacte culturel
 
